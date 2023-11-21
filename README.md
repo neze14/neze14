@@ -14,4 +14,4 @@ I have learned many languages but I am curently interested in C# and its use in 
 - 🌱 I’m currently learning: Full stack developer
 - 📫 How to reach me: [LinkedIn](https://ng.linkedin.com/in/chineze-okadigbo-0503851ba) or [Instagram](https://www.instagram.com/_chinezeokadigbo/?igshid=1aosdky1bgskm)
 
-[![Chineze's GitHub stats](https://github-readme-stats.vercel.app/api?username=neze14)](https://github.com/anuraghazra/github-readme-stats)
+[![Chineze's GitHub stats](https://github-readme-stats.vercel.app/api?username=neze14&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
