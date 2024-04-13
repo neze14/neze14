@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Chineze Okadigbo](https://chineze-okadigbo.netflify.app)😊. I am a multimedia creative with an interest in software development and game design, and I have decided to become a frontend developer.
+I'm [Chineze Okadigbo](https://chineze-okadigbo.netlify.app)😊. I am a multimedia creative with an interest in software development and game design, and I have decided to become a frontend developer.
 
 I have learned many languages but I am curently interested in C# and its use in game development using Unity. I am currently improving my skills in various frontend development tools (ReactJS, AngularJS)
 
