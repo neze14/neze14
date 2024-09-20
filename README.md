@@ -6,7 +6,7 @@ I'm [Chineze Okadigbo](https://chineze-okadigbo.netlify.app)😊. I am a multime
 
 - 🔭 I’m currently working on: Improving my skills in various frontend development tools 
 - Recent projects:
-  1. Personal Website. [Click here to explore it!](https://chineze-okadigbo.netflify.app)
+  1. Personal Website. [Click here to explore it!](https://chineze-okadigbo.netlify.app)
   2. A website that can be used to learn by interacting with 3D objects directly on the website. [Click here to explore it!](https://learnwith3d.netflify.app)
 - 📫 How to reach me: [LinkedIn](https://ng.linkedin.com/in/chineze-okadigbo-0503851ba) 
 
